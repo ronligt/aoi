@@ -5,4 +5,4 @@ parts:
   - caption: Contents
     chapters:
     - file: preface/preface.md
-    - file: introduction/introducion.md
+    - file: introduction/introduction.md
