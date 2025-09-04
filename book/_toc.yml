@@ -7,6 +7,18 @@ parts:
     - file: preface/preface.md
     - file: introduction/introduction.md
     - file: wavefieldpropagation/wavefieldpropagation
+    - file: fourieranalysis/fourieranalysis
+    - file: scalardiffractiontheory/scalardiffractiontheory
+    - file: wavefielddiffraction/wavefielddiffraction
+    - file: coherentimaging/coherentimaging
+    - file: fluorescencemicroscopy/fluorescencemicroscopy
+    - file: advancedilluminationmodalities/advancedilluminationmodalities
+    - file: structuredilluminationmicroscopy/structuredilluminationmicroscopy
+    - file: stimulatedemissiondepletion/stimulatedemissiondepletion
+    - file:  singlemoleculelocalizationmicroscopy/singlemoleculelocalizationmicroscopy
+    - file: wavefieldaberrations/wavefieldaberrations
+    - file: opticalcoherencetomography/opticalcoherencetomography
+    - file: holography/holography
   - caption: Testing
     chapters:
     - file: interactivedemo/4fPythonDemo.ipynb
