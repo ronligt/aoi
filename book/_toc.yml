@@ -7,3 +7,6 @@ parts:
     - file: preface/preface.md
     - file: introduction/introduction.md
     - file: wavefieldpropagation/wavefieldpropagation
+  - caption: Testing
+    chapters:
+    - file: interactivedemo/4fPythonDemo.ipynb
