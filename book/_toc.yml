@@ -15,7 +15,7 @@ parts:
     - file: advancedilluminationmodalities/advancedilluminationmodalities
     - file: structuredilluminationmicroscopy/structuredilluminationmicroscopy
     - file: stimulatedemissiondepletion/stimulatedemissiondepletion
-    - file:  singlemoleculelocalizationmicroscopy/singlemoleculelocalizationmicroscopy
+    - file: singlemoleculelocalizationmicroscopy/singlemoleculelocalizationmicroscopy
     - file: wavefieldaberrations/wavefieldaberrations
     - file: opticalcoherencetomography/opticalcoherencetomography
     - file: holography/holography
