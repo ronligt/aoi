@@ -1,5 +1,5 @@
 format: jb-book
-root: intro.md
+root: frontmatter/frontmatter.md
 
 parts:
   - caption: Contents
