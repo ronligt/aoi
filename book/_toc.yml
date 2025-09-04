@@ -6,3 +6,4 @@ parts:
     chapters:
     - file: preface/preface.md
     - file: introduction/introduction.md
+    - file: wavefieldpropagation/wavefieldpropagation

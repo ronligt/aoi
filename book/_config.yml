@@ -1,5 +1,6 @@
 title: Advanced Optical Imaging
 author: Jeroen Kalkman
+logo: images/logo.jpg
 
 execute:
   execute_notebooks: "off"                           # Replace this if you want don't have notebooks with output and you want to add notebook output during build
@@ -11,7 +12,7 @@ repository:
   branch: main
 
 html:
-  favicon : "favicon/logo16.ico"
+  favicon : "favicon/logo32.ico"
   baseurl :  "https://ronligt.github.io/aoi"
 
 sphinx:                                              # Options passed on to the underlying sphinx-parser
@@ -25,8 +26,8 @@ sphinx:                                              # Options passed on to the 
     html_theme_options:
       logo:
         text: Logo
-        image_light: logo.jpg
-        image_dark: logo.jpg
+        image_light: images/logo.jpg
+        image_dark: images/logo.jpg
       repository_url: "https://github.com/ronligt/aoi"
       path_to_docs: "book"                           # Required for edit_page_button, should be book if you're using TeachBooks package (https://github.com/TeachBooks/TeachBooks) or the TeachBooks deploy book workflow (https://teachbooks.io/manual/external/deploy-book-workflow/README.html)
       repository_branch: "main"                      # Replace when you change the name of your published branch (required for edit_page_button)
@@ -37,7 +38,7 @@ sphinx:                                              # Options passed on to the 
         thebe: true                                  # Required for live code: https://teachbooks.io/manual/features/live_code.html
     html_show_copyright: false                       # As the copyright is included in the author field
     html_last_updated_fmt: '%B %-d, %Y'              # Adds the date of the last update to the footer
-    html_static_path: ["figures"]                    # Add folder that contain files that need to be included, such as the location of the logo(s)
+    html_static_path: ["images"]                    # Add folder that contain files that need to be included, such as the location of the logo(s)
     mathjax3_config:
       chtml: {
         mtextInheritFont: true                       # To typeset text within math prettier
