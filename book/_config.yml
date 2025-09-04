@@ -25,7 +25,7 @@ sphinx:                                              # Options passed on to the 
       exclude_patterns: ["**/_*.yml", "**/*.md", "**/*.ipynb"] #exclude files which should not be accessible for live code: https://teachbooks.io/manual/features/live_code.html
     html_theme_options:
       logo:
-        text: Logo
+        text: Advanced Optical Imaging
         image_light: images/logo.jpg
         image_dark: images/logo.jpg
       repository_url: "https://github.com/ronligt/aoi"
