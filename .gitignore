@@ -136,3 +136,6 @@ _build/
 
 # poetry files
 pyproject.toml
+
+# Visual Studio Code
+*.code-workspace
