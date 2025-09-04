@@ -12,7 +12,7 @@ repository:
   branch: main
 
 html:
-  favicon : "figures/TB_favicon.ico"                 # Replace this with your own favicon
+  favicon : "favicon/logo48.ico"                 # Replace this with your own favicon
   baseurl :  "https://ronligt.github.io/aoi"          # Replace this with your own URL
 
 sphinx:                                              # Options passed on to the underlying sphinx-parser
