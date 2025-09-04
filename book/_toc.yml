@@ -4,6 +4,7 @@ root: frontmatter/frontmatter.md
 parts:
   - caption: Contents
     chapters:
+    - file: preface/preface.md
     - file: some_content/overview.md
       sections:
       - file: some_content/text_and_code.ipynb
