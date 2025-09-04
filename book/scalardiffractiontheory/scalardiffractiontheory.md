@@ -10,7 +10,7 @@ name: diffractiongeometry
 Geometry for wavefield diffraction.
 ```
 
-Now the most simple approach would be to use the Huygens principle, see {ref}`sec:huygens`, and consider the points on the aperture as secondary spherical sources. In this case the field would be described as
+Now the most simple approach would be to use the Huygens principle, see {numref}`sec:huygens`, and consider the points on the aperture as secondary spherical sources. In this case the field would be described as
 
 $$
 	U_{\text{out}}(\mathbf{r}) = \int_{S} U_{\text{in}}( \mathbf{r}') \frac{\text{e}^{ik |\mathbf{r} - \mathbf{r}'|}}{|\mathbf{r}-\mathbf{r}'|}\text{d} \mathbf{r}' \, ,
